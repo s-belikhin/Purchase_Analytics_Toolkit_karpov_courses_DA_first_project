@@ -5,7 +5,7 @@
   - Язык программирования:&nbsp;
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)
   - Библиотеки: pandas, numpy, scikit-learn (для кластеризации)
-  - Инструменты: Jupyter Notebook (для удобного взаимодействия с данными и визуализации)
+  - Инструменты: Jupyter Notebook
     
 ### Этапы работы:
 1. Подготовительный этап:
